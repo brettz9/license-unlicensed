@@ -1,0 +1,19 @@
+{
+  "name": "license-unlicensed",
+  "version": "0.1.0",
+  "description": "Just a test repo with an \"UNLICENSED\" license in `package.json`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettz9/license-unlicensed.git"
+  },
+  "author": "Brett Zamir <brettz9@yahoo.com> (http://brett-zamir.me/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/brettz9/license-unlicensed/issues"
+  },
+  "homepage": "https://github.com/brettz9/license-unlicensed#readme"
+}
